@@ -1,0 +1,13 @@
+name = "Simple Menu"
+filename = "simplemenu-1.21.1-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20e86db649072c411f3018004b897923d7d18447"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6725617
+project-id = 977300

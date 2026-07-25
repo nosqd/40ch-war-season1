@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Copycat Wing"
+filename = "CreateAeronauticsCopycatWing-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e4c37b6327917984dea0885c6ced8341b556568"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8215540
+project-id = 1530305

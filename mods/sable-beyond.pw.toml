@@ -1,0 +1,13 @@
+name = "Sable Beyond"
+filename = "sablebeyond-neoforge-1.21.1-v0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6040db8c52ddd2fe6e9c266a52df8865107e4124"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8365098
+project-id = 1543480

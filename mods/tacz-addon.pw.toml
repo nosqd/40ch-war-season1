@@ -1,0 +1,13 @@
+name = "TaCZ addon"
+filename = "taczaddon-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b726199ec7d85d8b68f91cc9670f237fa82f78cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8266875
+project-id = 1238419
