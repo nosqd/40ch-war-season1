@@ -66,6 +66,11 @@ hash = "956c73398df80a7242225a48290884f189cf4bfd50dbf03c3aa849bd098a5b2b"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "a201518dad53840f85d48516cef311f6c7d4bcb279bca2b0ca8f8399ee959418"
+metafile = true
+
+[[files]]
 file = "mods/ccc-redstone-link.pw.toml"
 hash = "72cceadf77910e106844e9193f0f563e9fe96b269f54ed4d3e138550466782f3"
 metafile = true
@@ -112,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash = "2e1be06e704c272126437071c485fb673c59fea7f540e8a6c9cf6bb871e54537"
 metafile = true
 
 [[files]]
@@ -123,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/create-avionics.pw.toml"
 hash = "b22729b40f5fa0bf9a5fbc6785507897aecec7295285fc28d53b24e9c65fb0f0"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons-advanced-technologies.pw.toml"
-hash = "f7066538c0086fca271ddf7d26b223d932a205e80fec08e6c14c9b4c245ed7b5"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
+hash = "046e7a431340b387dcf11a380a4543bbb18710fe628ad824abe22d40ab50b79e"
 metafile = true
 
 [[files]]
@@ -248,6 +248,16 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "401e1738b00110910e243d520022a158e8f11bf018fc27e485c012f3720ce97f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a2aa051ec45ec685f523fbf3813f23c5fde1935d7193e248871f1427ca1dd558"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
@@ -346,11 +356,6 @@ hash = "8b53d6ff33309a5a8b78b741fb6ce02c7e84bde2ea14d1252604bc314f2201dc"
 metafile = true
 
 [[files]]
-file = "mods/sable-physics-compat.pw.toml"
-hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
-metafile = true
-
-[[files]]
 file = "mods/sable-schematic-tool.pw.toml"
 hash = "b4ff234ab0bf79680738167c29c62c43fefe9187d15a891a4c91d14e9ec575db"
 metafile = true
@@ -396,11 +401,6 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
-file = "mods/steam-n-rails-neoforge.pw.toml"
-hash = "d452fac667bc125262ec97a16c71275bd4b8bde26101a67508ee3fb2e4e68306"
-metafile = true
-
-[[files]]
 file = "mods/synaxis.pw.toml"
 hash = "b98d05a0164f3e49e5a3cca92f8988d32b3ea0241c56b0fe318318e20040e728"
 metafile = true
@@ -423,11 +423,6 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "5cfe1c2e3765904af94d02c403a6ddce1f59354adb25aa7267af681ead5798b1"
-metafile = true
-
-[[files]]
-file = "mods/unofficial-cc-tweaked-v-1-120-1-cf.pw.toml"
-hash = "25612301bd197a97b683dc935cfd0928edd246e423f83949a18c598946fd265f"
 metafile = true
 
 [[files]]
