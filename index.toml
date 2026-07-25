@@ -431,6 +431,11 @@ hash = "cacbd8fde04be0aacf315b69b5d6e4cad997517c57d4fc58e5ea635bc22d68e7"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "9ec08d474d8c886bc0719b2d27d9b5f1893bc8d4baceb0b78824e4a231e7968b"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
