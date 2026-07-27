@@ -3,11 +3,6 @@ filename = "ccsconnector-0.0.1-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4f8392a34e5d637cbded0c5f775d5ac614ada55d"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8357058
-project-id = 1595292
+url = "https://raw.githubusercontent.com/MIKOALOPEX/CCSynaxisConnector/main/releases/ccsconnector-0.0.1-beta.jar"
+hash-format = "sha256"
+hash = "240c05026a1da5e281adf113cba4f713e5857b0709f5aeab525879a6e4aff698"

@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-synaxis-connector.pw.toml"
-hash = "956c73398df80a7242225a48290884f189cf4bfd50dbf03c3aa849bd098a5b2b"
+hash = "acdda9c93749eb18b205870ebebc726786e51ce3879b6901f0c07014aefedf9c"
 metafile = true
 
 [[files]]
