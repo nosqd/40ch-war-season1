@@ -1,6 +1,6 @@
 name = "Sable: Mass view (Create Aeronautics)"
 filename = "sablemassview-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

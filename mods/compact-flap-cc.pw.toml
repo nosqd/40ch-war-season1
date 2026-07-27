@@ -1,0 +1,8 @@
+name = "Compact Flap: CC"
+filename = "compactflapcc-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/nosqd/compactflapcc/releases/download/v1.1.0/compactflapcc-1.1.0.jar"
+hash-format = "sha256"
+hash = "0f37acf4925c6b131e4e138bf2b8f7f397d31c4cb61813b704eaa0739deb9c05"

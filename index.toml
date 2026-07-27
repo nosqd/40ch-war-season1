@@ -6,11 +6,6 @@ hash = "913d11057f9ca19ff2fdb19954315f52918d5b806a9eed9a6b11ad9c952e3f0c"
 metafile = true
 
 [[files]]
-file = "mods/almost-unified-ie.pw.toml"
-hash = "5841ce5135a416f849225e0feac4ae54b1640c72c23ccf9829739ffbf60b6839"
-metafile = true
-
-[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3e902846339c2bb422d614993ba499fef007f185c9c29cb55804e3270ebb5ef7"
 metafile = true
@@ -96,6 +91,11 @@ hash = "e95dae6d96a6fd51e34a470f3950e543434007afb9d07c3adc07507bbea33219"
 metafile = true
 
 [[files]]
+file = "mods/compact-flap-cc.pw.toml"
+hash = "7255f93ab780b57101d6cb4b2d0ca1ef6f3eec039daeccdd6f1eb29ee4f4fcb2"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronauticstoolgun.pw.toml"
 hash = "8a2941d050cb0636a824f3edddbbe43c29fff9ae8a374e39852cfe0b5c82f319"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "d9194e55e2db6d1a8712b6356ba81d03a081c2a5a3fccf9a03ed89ceb124d984"
 metafile = true
 
 [[files]]
@@ -191,6 +196,11 @@ hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "3872eeb409b1a2b5acdf5a270825a9e703e240ee8230a08b820a21c19f14c27e"
 metafile = true
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars.pw.toml"
 hash = "035f86b5c4c27664e1bb17d03b14cf19c5a0f540d9f0bfd2645075d6339b7e8b"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "a02a4145f4b9396ef8ed4a982ac653f5bf4be28d48b54f6fcf96e1a375b3f6b1"
 metafile = true
 
 [[files]]
@@ -268,11 +283,6 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
-metafile = true
-
-[[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
 
 [[files]]

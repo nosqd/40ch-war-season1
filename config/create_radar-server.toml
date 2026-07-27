@@ -1,0 +1,22 @@
+# 40ch War Season 1 radar policy
+radarLinkRange = 128
+monitorMaxSize = 9
+targetLoosenThreshold = 3.0
+targetLoosenAmount = 15
+firingDelay = 0
+controllerPhysbearingMaxSpeed = 25.0
+binocularRange = 512
+
+[radarStatsConfig]
+	maxRadarRange = 1000
+	radarYScanRange = 512
+	radarBaseRange = 20
+	dishRangeIncrease = 10
+	planeRadarRange = 500
+	gearRadarBearingSpeed = true
+	radarFOV = 90
+
+[guidedFuzeConfig]
+	guidedFuzeMaxSeekDegrees = 180.0
+	guidedFuzeMaxDegreesPerTick = 3.0
+	guidedFuzeSeekBeforeApex = false

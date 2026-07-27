@@ -1,0 +1,17 @@
+{
+	"setCustomWindowTitle": true,
+	"customWindowTitle": "ЧОЧ War S1",
+	"setCustomWindowIcon": false,
+	"replaceMainMenuLogo": false,
+	"replaceMainMenuEditionLogo": false,
+	"setCustomBackground": false,
+	"hideMinecraftRealmsButton": true,
+	"expandModsButton": true,
+	"enableServerPromoButton": false,
+	"serverPromoButtonTextDefault": "",
+	"serverPromoButtonTextOnHover": "",
+	"serverPromoButtonClickURL": "",
+	"hideSplashText": true,
+	"removeExperimentalModLoaderText": true,
+	"removeTextBottomLeft": false
+}

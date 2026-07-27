@@ -1,0 +1,26 @@
+# 40ch War Season 1: surveillance and geo-scanner limits.
+[Peripherals]
+
+	[Peripherals.Player_Detector]
+		enablePlayerDetector = true
+		playerDetMaxRange = 40
+		enablePlayerPosFunction = true
+		showSpectators = false
+		morePlayerInformation = true
+		chatBoxMultiDimensional = false
+		enablePlayerPosRandomError = false
+		playerPosRandomErrorAmount = 1000
+		playerPosPreciseMaxRange = 100
+
+	[Peripherals.Geo_Scanner]
+		enableGeoScanner = true
+
+	[Peripherals.Powered_Peripherals]
+		enablePoweredPeripherals = true
+		poweredPeripheralMaxEnergyStored = 1000000
+
+	[Peripherals.Operations]
+		scanBlocksCooldown = 1200
+		scanBlocksMaxFreeRadius = 1
+		scanBlocksMaxCostRadius = 8
+		scanBlocksExtraBlockCost = 0.1
