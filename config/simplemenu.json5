@@ -2,16 +2,16 @@
 	"setCustomWindowTitle": true,
 	"customWindowTitle": "ЧОЧ War S1",
 	"setCustomWindowIcon": false,
-	"replaceMainMenuLogo": false,
-	"replaceMainMenuEditionLogo": false,
+	"replaceMainMenuLogo": true,
+	"replaceMainMenuEditionLogo": true,
 	"setCustomBackground": false,
 	"hideMinecraftRealmsButton": true,
 	"expandModsButton": true,
-	"enableServerPromoButton": false,
-	"serverPromoButtonTextDefault": "",
+	"enableServerPromoButton": true,
+	"serverPromoButtonTextDefault": "телеграм чат",
 	"serverPromoButtonTextOnHover": "",
-	"serverPromoButtonClickURL": "",
+	"serverPromoButtonClickURL": "https://t.me/+XLGhXJL8cDYzZGVi",
 	"hideSplashText": true,
 	"removeExperimentalModLoaderText": true,
-	"removeTextBottomLeft": false
+	"removeTextBottomLeft": true
 }
