@@ -1,6 +1,6 @@
 name = "Almost Unified"
 filename = "almostunified-neoforge-1.21.1-1.4.2.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
