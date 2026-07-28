@@ -1,13 +1,13 @@
 name = "40ch War Season1"
 author = "nosqd"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29efc0ec2c660eddb996688c961482434ae01dac77b8aa4571e55badca9f8ae8"
+hash = "d70613074296736aed53acddc226c467db3575afa5b658357556ba099b32bf0b"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.243"
+neoforge = "21.1.244"

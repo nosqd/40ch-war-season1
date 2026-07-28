@@ -18,7 +18,27 @@ hash = "6b652e36128ecd227a319609d34016352d0b23604026343ecf22565b91af2073"
 
 [[files]]
 file = "config/simplemenu.json5"
-hash = "1ab363b81bcd8da2a32bb0eb4237b49cdda63494783c5ef9e7d75c9f5c544b8c"
+hash = "87fe6307932663b3eb50abc1c1748117846749ee4e3a0fdbfc9995dac591f2f7"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "61db6a57c1b16aba12f18fd63b03f57ed1af40f584b8da1d5af21a6ec3da3935"
+
+[[files]]
+file = "config/simplemenu/icon/icon_16x16.png"
+hash = "e52d23c313dcb9d60b1061c635205213cb8d072061b7f17a92d2e7a7e40753e1"
+
+[[files]]
+file = "config/simplemenu/icon/icon_32x32.png"
+hash = "fc19da09e10cbb309ce359a21aa8748568b664e65c2b358a7efeb87529761ba5"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "30d71c4299f0a0f87275d43d4174529b8a3710a89cff40235c5fac55b2339584"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "14b773097e780a0d3c82b1220c6d31db8ad9301660a13235802e0b97ee0334b0"
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
