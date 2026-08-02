@@ -16,4 +16,15 @@ ServerEvents.recipes(event => {
   // settings below. Keep the peripheral disabled in survival until a binary
   // patch makes chunkAnalyze consume energy.
   event.remove({ output: 'advancedperipherals:geo_scanner' })
-})
+  event.remove({ output: 'minecraft:elytra' });
+});
+
+PlayerEvents.inventoryChanged(event => {
+  const player = event.player
+
+  player.inventory.allItems.forEach(item => {
+    if (item.id === 'minecraft:elytra') {
+      item.count = 0
+    }
+  })
+});

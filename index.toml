@@ -54,7 +54,7 @@ hash = "d0ecdd6ac348cc4d59de3dbaa5c4bbcff3142469dc5f65bd1d5d701be052bfff"
 
 [[files]]
 file = "kubejs/server_scripts/40ch_balance.js"
-hash = "c2b4999169e6dabba59b46ad7e288f65c03136746eabd7919cf1d3ee06d3a837"
+hash = "26f81ad0c0af0a39e781fa8ca02e005e1bc83304d4583661c2b334d01f0acd8a"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -167,6 +167,11 @@ hash = "702f920d362c413cd2054d63c4a6e1b4d32529f9737f4b20c2bd3184383a10f6"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-gyroscope-stabilizers.pw.toml"
+hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-sable-mass-view.pw.toml"
 hash = "7906fb17d0ade89e52de402008be3e422b72ebdaf020d90792cb9e82988dfe6a"
 metafile = true
@@ -224,6 +229,16 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -312,6 +327,11 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
+file = "mods/createlights-controls.pw.toml"
+hash = "adfd3beafe093cf8b172e6687f1a6448274cbeeb4f712b481d3c9e535be9d92f"
+metafile = true
+
+[[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
@@ -322,13 +342,28 @@ hash = "fa13d87b5db41c2f963a919872ef276dd44ef0567f3cd23ca8dbe7b923e8a7ac"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/cyanide.pw.toml"
 hash = "9bf8a678388b0d1bd5811cc74052d33bccdbdd08456c075cf38c417abebc5678"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "046e7a431340b387dcf11a380a4543bbb18710fe628ad824abe22d40ab50b79e"
+metafile = true
+
+[[files]]
+file = "mods/explosion-overhaul-a-new-level-of-destruction.pw.toml"
+hash = "cabd5e3f0fa757015079d657485c9bced8fc769ed2e4be62aa48a138a72e4b47"
 metafile = true
 
 [[files]]
@@ -434,6 +469,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "232f7c77717ba691dd87661d830c40e6f60f99d04c0af6b75b128602e513da77"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "92a299204f6b5bb0f39900d5866df154ad360b83a035060e25aec50baa6e305f"
 metafile = true
 
 [[files]]
